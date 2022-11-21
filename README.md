@@ -6,12 +6,10 @@
 
 ### Documentos:
 
-1 - Plano de fluxo de trabalho + ciclo de vida do bug
+1 - [Plano de fluxo de trabalho](https://github.com/LorrayneCardozo/DIOProject1/blob/main/Fluxo_de_trabalho.pdf) + [Ciclo de vida do bug](https://github.com/LorrayneCardozo/DIOProject1/blob/main/Ciclo_de_vida_do_bug.pdf)
 
-2 - Documento de User Stories
+2 - [User Stories](https://github.com/LorrayneCardozo/DIOProject1/blob/main/User_Stories.pdf)
 
-3 - Mind-maps
+3 - [Mind-maps](https://github.com/LorrayneCardozo/DIOProject1/blob/main/Mind-maps.pdf)
 
-4 -  2 casos de teste utilizando técnica step-by-step 
-
-5 - 2 casos de teste utilizando BDD
+4 - [Casos de teste](https://github.com/LorrayneCardozo/DIOProject1/blob/main/Documento_de_testes.pdf): 2 utlizando a técnica step-by-step e 2 utlizando a técnica BDD
